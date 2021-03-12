@@ -29,8 +29,8 @@ This repository provides:
 
 # References
 
-[1] Dempster, Arthur P. "Covariance selection." Biometrics (1972): 157-175.
-[2] Dempster, Arthur P., Nan M. Laird, and Donald B. Rubin. "Maximum likelihood from incomplete data via the EM algorithm." Journal of the Royal Statistical Society: Series B (Methodological) 39.1 (1977): 1-22.
-[3] Gao, Chen, et al. "Estimation of multiple networks in gaussian mixture models." Electronic journal of statistics 10 (2016): 1133.
-[4] Hao, Botao, et al. "Simultaneous clustering and estimation of heterogeneous graphical models." Journal of Machine Learning Research (2018).
+[1] Dempster, Arthur P. "Covariance selection." Biometrics (1972): 157-175.\
+[2] Dempster, Arthur P., Nan M. Laird, and Donald B. Rubin. "Maximum likelihood from incomplete data via the EM algorithm." Journal of the Royal Statistical Society: Series B (Methodological) 39.1 (1977): 1-22.\
+[3] Gao, Chen, et al. "Estimation of multiple networks in gaussian mixture models." Electronic journal of statistics 10 (2016): 1133.\
+[4] Hao, Botao, et al. "Simultaneous clustering and estimation of heterogeneous graphical models." Journal of Machine Learning Research (2018).\
 [5] Danaher, Patrick, Pei Wang, and Daniela M. Witten. "The joint graphical lasso for inverse covariance estimation across multiple classes." Journal of the Royal Statistical Society. Series B, Statistical methodology 76.2 (2014): 373.
