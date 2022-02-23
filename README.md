@@ -5,7 +5,7 @@ This is the companion code to the article:
 
 **Mixture of Conditional Gaussian Graphical Models for unlabelled heterogeneous populations in the presence of co-factors**. Thomas Lartigue, Stanley Durrleman, Stéphanie Allassonnière. 
 
-https://hal.inria.fr/hal-02874192/document
+https://link.springer.com/article/10.1007/s42979-021-00865-5
 
 If you use elements of this code in your work, please cite this article as reference.
 
