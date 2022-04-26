@@ -17,13 +17,13 @@ Conditional correlation networks, within Gaussian Graphical Models (GGM) [1], ar
 
 This repository provides:
 
-- Functions to estimate a Conditional Mixture of Gaussians with a joint-Gaussian Graphical Model structure. The specific penalty used here is Group Graphical Lasso [5].
+- Functions to estimate a Conditional Mixture of Gaussians with a joint-Gaussian Graphical Model structure. The specific penalty used here is Group Graphical Lasso [5].\
 *Conditional_Gaussian_Graphical_Model_EM.py*
 
-- Functions to estimate a simple Mixture of Gaussians with the same joint-Gaussian Graphical Model structure.
+- Functions to estimate a simple Mixture of Gaussians with the same joint-Gaussian Graphical Model structure.\
 *Gaussian_Graphical_Model_EM.py*
 
-- A toy example in dimension 2 to illustrate the interest of taking into account the heterogeneous effect of observed co-features.
+- A toy example in dimension 2 to illustrate the interest of taking into account the heterogeneous effect of observed co-features.\
 *2D_example.ipynb*
 
 
